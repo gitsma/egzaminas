@@ -1,0 +1,20 @@
+.alladscard {
+    background-color: rgb(234, 234, 234);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 15px;
+    color: rgb(7, 7, 109);
+    margin-bottom: 15px;
+}
+
+.alladscontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 30px;
+}
